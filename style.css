@@ -1,0 +1,33 @@
+body{
+    background-color: aliceblue;
+    font-family: Arial;
+
+}
+
+.container {
+    width:350px;
+    margin:50px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius:10px;
+
+}
+
+h1{
+    text-align: center;
+}
+ul{
+    list-style: none;
+    padding:0;
+}
+
+li{
+    margin-bottom: 15px;
+}
+
+label{
+    display:block;
+    margin-bottom:5px;
+}
+
+input
